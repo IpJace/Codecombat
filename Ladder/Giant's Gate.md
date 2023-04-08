@@ -49,3 +49,33 @@ You can summon 7 different types of soldiers, <br />
 > Attack Range: 3M
 
 4. 'shaman'
+> Cost time to Summon: 2 seconds <br />
+> HP: 155 <br />
+> Speed: 10 <br />
+> Attack Damage: 25 <br />
+> AC: 0.7 <br />
+> Attack Range: 7M
+
+5. 'brawler'
+> Cost time to Summon: 4 seconds <br />
+> HP: 460 <br />
+> Speed: 7 <br />
+> Attack Damage: 65 <br />
+> AC: 1 <br />
+> Attack Range: 5M
+
+6. 'warlock'
+> Cost time to Summon: 4 seconds <br />
+> HP: 310 <br />
+> Speed: 8 <br />
+> Attack Damage: 40 <br />
+> AC: 0.6 <br />
+> Attack Range: 30M
+
+7. 'headhunter'  ***(SPECIAL)***
+> Cost time to Summon: 6 seconds <br />
+> HP: 200 <br />
+> Speed: - <br />
+> Attack Damage: -- <br />
+> AC: --- <br />
+> Attack Range: 40M
