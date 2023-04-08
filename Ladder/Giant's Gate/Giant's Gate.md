@@ -110,9 +110,9 @@ You can cast 3 different kinds of spells. **These spells DO NOT work for giants.
 > Range: 5 <br />
 > *Effect: Stun 0.7 seconds*
 
-**3. 'heal': <br />
+3. 'heal': <br />
 > Cost time to Cast: 1.3 seconds <br />
 > HEAL: 75 <br />
-> Range: 10 <br />**
+> Range: 10 <br />
 
 <sup>This is the end of this chapter.</sup>
