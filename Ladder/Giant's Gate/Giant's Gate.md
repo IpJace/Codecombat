@@ -16,8 +16,9 @@ OR <br />
 hero.summon(unit, defaultSpawnPoints)
 ```
 To cast magic,
-> _hero.cast(unit, x, y)_
-
+```
+hero.cast(unit, x, y)
+```
 After **2 Minutes** your palace (**The Diamond**) and your giants will start subtracting by itselves. <br />
 And after your giant died, **Your opponent will have more territories to summon soldiers.**
 
@@ -25,7 +26,7 @@ And after your giant died, **Your opponent will have more territories to summon 
 Some position are marked as 'A' to 'G' as they are **Default Spawn Points**. <br />
 You can **summon** soldiers there by typing this code,
 ```
-hero.summon(**unit**, 'A')
+hero.summon(unit, 'A')
 ```
 # **Summon Units**
 You can summon 7 different types of soldiers, <br />
