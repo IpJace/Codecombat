@@ -82,7 +82,7 @@ You can summon 7 different types of soldiers, <br />
 > Cost time to Summon: 6 seconds <br />
 > HP: 200 <br />
 > Speed: - <br />
-> Attack Damage: -- <br />
+> Attack Damage: 72 <br />
 > AC: --- <br />
 > Attack Range: 40M
 
